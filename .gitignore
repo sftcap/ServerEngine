@@ -1,3 +1,13 @@
+# Visual Studio User Files
+*.sdf
+*.opensdf
+*.suo
+*.ipch
+*.opendb
+*.vc.db
+*.vcxproj.user
+*.csproj.user
+
 # Prerequisites
 *.d
 
@@ -8,8 +18,8 @@
 *.obj
 
 # Precompiled Headers
-*.gch
-*.pch
+#*.gch
+#*.pch
 
 # Compiled Dynamic libraries
 *.so
@@ -30,3 +40,14 @@
 *.exe
 *.out
 *.app
+/.vs
+/Source/.vs/ServerEngine/v15
+
+Source/x64/
+
+bin
+obj
+Debug
+Debug.dll
+Release
+Release.dll
